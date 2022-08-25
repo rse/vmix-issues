@@ -16,7 +16,7 @@ We are tracking those limitations, bugs and wishes here and attached them to a [
 The primary reason for this tracking is that without those limitations and bugs kept in mind, one really regularly "runs into a wall"
 when creating vMix presets for new type of events. And I finally got tired of remembering all those issues...
 
-PS: for some of the issues workarounds exists through my [vMix Scripts](https://github.com/rse/vmix-scripts/)
+PS: for some of the issues workarounds exist through my [vMix Scripts](https://github.com/rse/vmix-scripts/)
 and [vMix Assets](https://github.com/rse/vmix-assets/).
 
 &mdash; [Dr. Ralf S. Engelschall](mailto:rse@engelschall.com)

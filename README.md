@@ -21,3 +21,8 @@ and [vMix Assets](https://github.com/rse/vmix-assets/).
 
 &mdash; [Dr. Ralf S. Engelschall](mailto:rse@engelschall.com)
 
+- [Project Board](https://github.com/users/rse/projects/1/views/1) (overview)
+- [Limitations](https://github.com/rse/vmix-issues/labels/type-limitation) (issues)
+- [Bugs](https://github.com/rse/vmix-issues/labels/type-bug) (issues)
+- [Wishes](https://github.com/rse/vmix-issues/labels/type-wish) (issues)
+

@@ -2,6 +2,9 @@
 vMix Issues
 ===========
 
+About
+-----
+
 [vMix](https://www.vmix.com/) is a really awesome video mixing application for Windows.
 It provides tons of great and stable functionality and for a price which is cheap
 compared to the costs of comparable hardware/appliance-based solutions in the video engineering field.
@@ -20,6 +23,9 @@ PS: for some of the issues workarounds exist through my [vMix Scripts](https://g
 and [vMix Assets](https://github.com/rse/vmix-assets/).
 
 &mdash; [Dr. Ralf S. Engelschall](mailto:rse@engelschall.com)
+
+Content
+-------
 
 - [**Project Board**](https://github.com/users/rse/projects/1/views/1) (overview)
 - [**Limitations**](https://github.com/rse/vmix-issues/labels/type-limitation) (issues)

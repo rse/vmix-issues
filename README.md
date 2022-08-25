@@ -14,10 +14,10 @@ and even some cruel [Bugs](https://github.com/rse/vmix-issues/labels/type-bug).
 As a result the situation results in some high-level [Wishes](https://github.com/rse/vmix-issues/labels/type-wish).
 We are tracking those limitations, bugs and wishes here and attached them to a [Project Board](https://github.com/users/rse/projects/1/views/1), too.
 The primary reason for this tracking is that without those limitations and bugs kept in mind, one really regularly "runs into a wall"
-when creating vMix presets for new type of events.
+when creating vMix presets for new type of events. And I finally got tired of remembering all those issues...
 
-Hint: for some of the issues workarounds exists through my [vMix Scripts](https://github.com/rse/vmix-scripts/)
-and [vMix Assets](https://github.com/rse/vmix-assets/) repositories.
+PS: for some of the issues workarounds exists through my [vMix Scripts](https://github.com/rse/vmix-scripts/)
+and [vMix Assets](https://github.com/rse/vmix-assets/).
 
 &mdash; [Dr. Ralf S. Engelschall](mailto:rse@engelschall.com)
 

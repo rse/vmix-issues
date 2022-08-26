@@ -8,8 +8,10 @@ About
 [vMix](https://www.vmix.com/) is a really awesome video mixing application for Windows.
 It provides tons of great and stable functionality and for a price which is cheap
 compared to the costs of comparable hardware/appliance-based solutions in the video engineering field.
-Compared to the Open Source primary alternative OBS Studio, vMix is also more stable,
-but also less flexible. So, in practice, vMix is the video streaming workhorse and
+Compared to the Open Source primary alternative OBS Studio, vMix is more stable,
+but also somewhat less flexible (at least when compared with the combo of OBS Studio
+and its [various third-party plugins](https://github.com/rse/obs-setup/)).
+So, in practice, vMix is the video streaming workhorse and
 OBS Studio the secret weapon for special tasks.
 
 Unfortunately, vMix has many nasty [Limitations](https://github.com/rse/vmix-issues/labels/type-limitation),

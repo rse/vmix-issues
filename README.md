@@ -17,14 +17,18 @@ the video engineering workhorse and OBS Studio the secret weapon for
 special video streaming tasks.
 
 Unfortunately, vMix has many nasty
-[Limitations](https://github.com/rse/vmix-issues/labels/type-limitation), and even some
-potential [Bugs](https://github.com/rse/vmix-issues/labels/type-bug).
+[Limitations](https://github.com/rse/vmix-issues/labels/type-limitation),
+even if most of them are "by design" according to
+the vendor. And vMix even has some potential
+[Bugs](https://github.com/rse/vmix-issues/labels/type-bug).
 As a result the situation results in some high-level
-[Wishes](https://github.com/rse/vmix-issues/labels/type-wish). We are
-tracking those limitations, bugs and wishes here and attached them to a
-[Project Board](https://github.com/users/rse/projects/1/views/1). The
-primary reason for this tracking is that without those limitations and
-bugs closely kept in mind, one really regularly and quickly "runs into a
+[Wishes](https://github.com/rse/vmix-issues/labels/type-wish).
+
+We are tracking those limitations, bugs and
+wishes here and attached them to a [Project
+Board](https://github.com/users/rse/projects/1/views/1). The primary
+reason for this tracking is that without those limitations and bugs
+closely kept in mind, one really regularly and quickly "runs into a
 wall" when creating vMix presets for new types of events. And I finally
 got really tired of having to remember all those issues...
 
